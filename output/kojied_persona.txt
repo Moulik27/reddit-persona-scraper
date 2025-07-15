@@ -1,0 +1,56 @@
+---
+Name: kojied
+AGE: Not enough data
+OCCUPATION: Not enough data
+STATUS: Not enough data
+LOCATION: New York City (Based on posts in r/newyorkcity and r/FoodNYC)
+TIER: Not enough data
+ARCHETYPE: Tech Enthusiast/Gamer/Global Citizen
+
+TRAITS:
+- Informed: Asks questions and seeks information on a wide range of topics. Examples: "H1B holders, what are your thoughts on the narrative that you are being exploited?" (https://old.reddit.com/r/AskReddit/comments/1hnx8j0/h1b_holders_what_are_your_thoughts_on_the/), "What needs to happen for the league to review the inconsistencies of the refs?" (https://old.reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/)
+- Helpful: Offers advice and suggestions to others. Example: "Sorry to hear that man, in the future you may want to have multiple granaries..." (https://old.reddit.com/r/ManorLords/comments/1ly3nuf/my_granary_burned_down/n2r16t2/)
+- Curious about Technology: Posts and comments on topics like ChatGPT, Vision Pro, and NFTs. Examples: "Killer feature: accessing chatGPT (iPad app) and using audio as primary input" (https://old.reddit.com/r/VisionPro/comments/1alf7av/killer_feature_accessing_chatgpt_ipad_app_and/), "Can't wait for Vision Air 5 launching in 2034 with these transparent displays!" (https://old.reddit.com/r/VisionPro/comments/1b36n83/cant_wait_for_vision_air_5_launching_in_2034_with/)
+- Interest in gaming: Posts and comments on various games such as "Manor Lords", "Project Zomboid", and "Civilization V". Examples: "I do too but I rarely finish a game haha. Too little late game content" (https://old.reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/), "Surprised I don’t see project zomboid. Graphics are retro but the game is so well made." (https://old.reddit.com/r/AskReddit/comments/1iz0bzi/which_game_proves_that_graphics_arent_everything/mezpeha/)
+- Analytical: Provides in-depth analysis of game mechanics and NFT trends. Examples: Comment in r/ManorLords detailing optimal city building and trade strategies (https://old.reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/), analysis on NFT trends in r/NFT (https://old.reddit.com/r/NFT/comments/1l2gcmt/nfts_in_2025_where_are_we_headed/mvt4t5c/)
+- Interested in Japanese culture: Comments relating to Kabuki and One Piece. "Closest expression is naraku ochi 奈落落ち which means falling from the stage, used in kabuki" (https://old.reddit.com/r/OnePiece/comments/1kpavbs/ive_been_ripping_on_that_part_of_zoros_backstory/mswlma6/)
+- Plant Enthusiast: Posts in r/plantclinic looking for assistance. "【Help!】English ivy is withering, any suggestions on what I should do?" (https://old.reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/)
+
+MOTIVATIONS:
+- Convenience: Seeks solutions to make tasks easier in games. Example: in Manor Lords, "imo trading raw materials is easier than trading crafted goods in the current build. High quantity stuff is easy to stock..." (https://old.reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/)
+- Wellness: Self care "Millenials have less kids, so they have more time and money to spend on themselves. Millenials are also getting married less and later in life, meaning we allocate more effort on self care" (https://old.reddit.com/r/AskReddit/comments/1kz5a0n/do_you_think_millennials_generally_look_younger/mv2xf3q/)
+- Speed: Not enough data
+- Preferences: Preference for raw material trading in Manor Lords "imo trading raw materials is easier than trading crafted goods in the current build." (https://old.reddit.com/r/ManorLords/comments/1lq4lst/this_is_acceptable/n1089i9/)
+- Comfort: Not enough data
+- Dietary Needs: Not enough data
+
+PERSONALITY:
+- Introvert/Extrovert: Not enough data
+- Intuition/Sensing: Thinking - Focus on strategies, analysis, and problem-solving in games and real-world situations.
+- Feeling/Thinking: Thinking - Prioritizes logical analysis and efficient solutions (e.g., game strategy, NFT market analysis).
+- Perceiving/Judging: Not enough data
+
+QUOTE: "imagine making 60fps videos with photos from OAI images. nothing on the internet can be trusted" (https://old.reddit.com/r/ChatGPTJailbreak/comments/1jliha3/i_cant_believe_i_made_it_do_this_note_i_do_not/mk4no36/)
+
+BEHAVIOUR & HABITS:
+- Actively participates in online communities, asking questions and offering advice.
+- Explores new technologies and is interested in their potential applications (e.g., Vision Pro, ChatGPT).
+- Engages in gaming communities, sharing strategies and seeking advice.
+- Seeks out information and solutions to problems, particularly related to games and technology.
+-Interested in diverse topics ranging from geopolitical issues to local issues to sports.
+-Posts frequently.
+
+FRUSTRATIONS:
+- Inconsistencies in sports officiating. "What needs to happen for the league to review the inconsistencies of the refs?" (https://old.reddit.com/r/nba/comments/1hcopxo/what_needs_to_happen_for_the_league_to_review_the/)
+- The demanding nature of town upgrades in Manor Lords. "Yeah I was doing alright and then as soon as I upgraded to tier 3 my town was in shambles. I didn’t notice how demanding it was going to be" (https://old.reddit.com/r/ManorLords/comments/1ljgy2w/confession/mzopv8i/)
+- Difficulty in maintaining consistent characters in photorealistic AI generated images. "It’s pretty hard to get consistent characters when they’re photorealistic tbh. I guess our eyes are more lenient when it’s cartoon." (https://old.reddit.com/r/ChatGPT/comments/1jpagk5/to_me_the_most_impressive_new_feature_is_the/ml31o85/)
+- Late-game content scarcity in games. "I do too but I rarely finish a game haha. Too little late game content" (https://old.reddit.com/r/ManorLords/comments/1lse9cn/great_game_i_hope_there_is_something_new_added_in/n1i5k2p/)
+- Frustration with customer service. "Lyft bike on the loose, support team will "email me as soon as possible" (https://old.reddit.com/r/Lyft/comments/166ksv7/lyft_bike_on_the_loose_support_team_will_email_me/)
+
+GOALS & NEEDS:
+- To learn more about new technologies and their applications.
+- To optimize gameplay and find efficient solutions in games.
+- To connect with others who share similar interests in technology, gaming, and culture.
+- To find solutions to real-world problems.
+- Needs help with plant care. "【Help!】English ivy is withering, any suggestions on what I should do?" (https://old.reddit.com/r/plantclinic/comments/16tj525/helpenglish_ivy_is_withering_any_suggestions_on/)
+---
